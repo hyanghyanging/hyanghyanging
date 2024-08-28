@@ -1,9 +1,24 @@
-## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=YuHyang's%20GITHUB&descAlign=57)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyanghyanging)](https://solved.ac/hyanghyanging)
 
 
 
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyanghyanging&exclude_repo=dkssud8150.github.io&layout=compact&theme=swift" />
+</a>
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyanghyanging&theme=swift&show_icons=true" />
+</a>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&descAlign=57&section=footer&reversal=false&textBg=false)
+
+
+<!--
+주석처리부분
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,11 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+- 방문자수 표시
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyanghyanging%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyanghyanging&layout=compact)](https://github.com/hyanghyanging/github-readme-stats)
-
-## Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyanghyanging&show_icons=true&theme=radical)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+-->
