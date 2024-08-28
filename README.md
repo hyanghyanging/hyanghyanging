@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-<!--
-**hyanghyanging/hyanghyanging** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+### 언어비율
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyanghyanging)](https://github.com/anuraghazra/github-readme-stats)
+
+### 평판
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyanghyanging)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
