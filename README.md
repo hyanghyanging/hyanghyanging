@@ -6,7 +6,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyanghyanging)](https://solved.ac/hyanghyanging)
 
+<!--
 ![깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=hyanghyanging&theme=react-dark)
+-->
 
 # Skills
 ### Languages
